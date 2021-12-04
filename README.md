@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ncd0611
 - 👀 I’m interested in .NET
-- 🌱 I’m currently learning ASP.NET MVC
+- 🌱 I’m currently learning ASP.NET Core
 <!---   💞️ I’m looking to collaborate on ...
  📫 How to reach me ...
 --->
